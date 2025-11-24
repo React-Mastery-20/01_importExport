@@ -22,3 +22,21 @@ JavaScript mein do main tarike:
 2. **Default Export**
 
 Dono ka purpose alag hota hai.
+
+
+## ⭐ 11. Common Mistakes Students Make
+
+1. ❌ Missing file extension
+→ React automatically resolves .js but not .json.
+
+2. ❌ Wrong path
+→ "./" (current folder), "../" (back folder)
+
+3. ❌ Braces misuse
+
+Named import → { }
+
+Default import → No { }
+
+4. ❌ Trying multiple default exports
+→ Error
