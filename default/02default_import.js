@@ -6,6 +6,6 @@
 
     // Only one default export allowed per file.
 
-import greet from "./02default_export.js"
+import greetto from "./02default_export.js"
 
-greet();
+greetto();

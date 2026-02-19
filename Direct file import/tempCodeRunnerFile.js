@@ -1,3 +1,3 @@
-t function ishwar(){
+ function ishwar(){
 //     console.log("Ishwar Verma");
-// }
+}
